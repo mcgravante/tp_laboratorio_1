@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1556761846 source:/home/mgravante/apps/utn/tp1-gravante/TP1-Gravante/bibliotecautn.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1556762269 source:/home/mgravante/apps/utn/tp1-gravante/TP1-Gravante/main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+	"bibliotecautn.h"
+
+1556762289 /home/mgravante/apps/utn/tp1-gravante/TP1-Gravante/funciones.h
+
+1556751833 /home/mgravante/apps/utn/tp1-gravante/TP1-Gravante/bibliotecautn.h
+
+1556762289 source:/home/mgravante/apps/utn/tp1-gravante/TP1-Gravante/funciones.c
+	<stdio.h>
+	<stdlib.h>
+
